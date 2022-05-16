@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syed Shahabaaz Ahmed, SDE intern at OneDirect
+- 👋 Hi, I’m @Syed Shahabaaz Ahmed, SDE(Full-Stack) intern at OneDirect
 
 <!---
 Syed-Shahabaaz/Syed-Shahabaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
